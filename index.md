@@ -73,7 +73,7 @@ var myVar = "Hello, world!";
 - [x] This item is complete
 - [ ] This item is not complete
 
-** -> Activity to add a TaskList**
+** Activity to add a TaskList**
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
