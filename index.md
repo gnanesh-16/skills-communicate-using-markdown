@@ -2,7 +2,7 @@
 
 This guide will walk you through creating a pull request, editing files, and committing changes.
 
-## Steps to Create a Pull Request
+## Step-1 Steps to Create a Pull Request
 
 1. **Open the GitHub repository** where your branches are located.
 2. Navigate to the **Pull requests** tab.
@@ -12,7 +12,7 @@ This guide will walk you through creating a pull request, editing files, and com
    - **Compare branch**: `start-markdown`
 5. Click **Create pull request**.
 
-## Editing the `index.md` File
+## Step-2 Editing the `index.md` File
 
 Once the pull request is created, follow these steps to edit the `index.md` file:
 
@@ -21,7 +21,7 @@ Once the pull request is created, follow these steps to edit the `index.md` file
 3. Click the three dots (`...`) in the upper-right corner of the file view.
 4. Select **Edit file** from the menu.
 
-## Adding Headers to Markdown
+## Step-3 To Add Headers to Markdown
 
 - To make a heading, use the `#` symbol followed by a space:
   - `#` for H1
@@ -38,7 +38,7 @@ Once the pull request is created, follow these steps to edit the `index.md` file
 
 This markdown document clearly describes the process, making it easy for team members to follow .
 ```
-## Steps to Add an Image in Markdown
+## Step-4  To Add an Image in Markdown
 1. **Navigate to the Pull Request**: 
    - Go to the **Pull requests** tab in your repository.
    - Locate the pull request where you want to edit the `index.md` file.
@@ -55,7 +55,7 @@ This markdown document clearly describes the process, making it easy for team me
    - Replace the URL (`https://example.com/your-image-url.jpg`) with the actual link to your image.
    - Replace the alt-text in the square brackets `[]` with a short description of the image.
   
-## Steps to Add a Code 
+## Step-5 To Add a Code 
 1. **Sample code-1 **
 ```
 $ git init
@@ -67,3 +67,13 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+## Step-6 How to Make a Task list 
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+** -> Activity to add a TaskList**
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
