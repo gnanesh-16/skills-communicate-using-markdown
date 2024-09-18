@@ -54,3 +54,16 @@ This markdown document clearly describes the process, making it easy for team me
 
    - Replace the URL (`https://example.com/your-image-url.jpg`) with the actual link to your image.
    - Replace the alt-text in the square brackets `[]` with a short description of the image.
+  
+## Steps to Add a Code 
+1. **Sample code-1 **
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+2. **Sample code-2 **
+``` javascript
+var myVar = "Hello, world!";
+```
+
